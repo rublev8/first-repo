@@ -1,3 +1,3 @@
 # first-repo
 
-## one more change in the readme on the ground
+This line was created manually during merge conflicts resolution
